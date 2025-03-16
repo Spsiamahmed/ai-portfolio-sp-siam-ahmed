@@ -46,4 +46,4 @@ Welcome to my AI-powered portfolio! This repository showcases my projects and ex
 
 For collaborations or inquiries, feel free to reach out via [email](spsiamahmed@gmail.com) or visit my [YouTube channel](https://www.youtube.com/channel/SP-Siam-Ahmed).
 
-live view : 
+# live view : https://spsiamahmed.github.io/ai-portfolio-sp-siam-ahmed ❤️
